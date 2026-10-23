@@ -1,1 +1,1 @@
-# python-for-pratical
+# python-for-practical
